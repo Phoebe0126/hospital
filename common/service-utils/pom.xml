@@ -20,7 +20,7 @@
     <dependencies>
         <dependency>
             <groupId>com.myprogram</groupId>
-            <artifactId>common_utils</artifactId>
+            <artifactId>common-utils</artifactId>
             <version>1.0</version>
         </dependency>
         <!-- redis -->

@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
     <modules>
         <module>service-hosp</module>
+        <module>service-cmn</module>
     </modules>
 
     <properties>
@@ -24,6 +25,11 @@
         <dependency>
             <groupId>com.myprogram</groupId>
             <artifactId>service-utils</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.myprogram</groupId>
+            <artifactId>common-utils</artifactId>
             <version>1.0</version>
         </dependency>
         <dependency>
